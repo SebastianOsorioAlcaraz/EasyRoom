@@ -1,0 +1,7 @@
+{
+  "name": "Easy Room Front End Nuevo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
